@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Emergency Medical Technician",
+      "organisation": "SHS",
+      "startDate": "2021",
+      "endDate": "2024",
+      "experiences": ["Provided emergency medical services in the capital region", "Used critical thinking to resolve challenges efficiently and safely"],
+      "imageSrc": "history/shs.png"
+    },
+    {
+      "role": "Assistant",
+      "organisation": "Landpítalinn Emergency Room",
+      "startDate": "2018",
+      "endDate": "2021",
+      "experiences": ["Supported medical staff by preparing treatment rooms and managing supplies", "Assisted with patient care and in-house transportation"],
+      "imageSrc": "history/lsh.png"
+    }
+  ]
