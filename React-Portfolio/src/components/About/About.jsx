@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Problem Solver</h3>
               <p>
-               This is me and my plant looking over some code trying to solve it 
+               I love creating things and solving problems, which is why I chose a career in computer science.
               </p>
             </div>
           </li>
